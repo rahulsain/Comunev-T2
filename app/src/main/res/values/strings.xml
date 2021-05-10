@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task2-Comunev</string>
+    <string name="delete_country">Delete Names</string>
+    <string name="refresh_country">Refresh Names</string>
+    <string name="title_name">Title</string>
+    <string name="first_name">First</string>
+    <string name="last_name">Last</string>
+</resources>

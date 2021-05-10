@@ -1,0 +1,2 @@
+rootProject.name = "Task2-Comunev"
+include ':app'
